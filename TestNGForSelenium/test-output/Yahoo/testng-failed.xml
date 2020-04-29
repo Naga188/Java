@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Yahoo]">
+  <test name="Yahoo News Test(failed)">
+    <classes>
+      <class name="test1.YahooNewsTest">
+        <methods>
+          <include name="xyz"/>
+          <include name="testNews"/>
+        </methods>
+      </class> <!-- test1.YahooNewsTest -->
+    </classes>
+  </test> <!-- Yahoo News Test(failed) -->
+</suite> <!-- Failed suite [Yahoo] -->

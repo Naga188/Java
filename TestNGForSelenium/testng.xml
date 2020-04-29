@@ -1,0 +1,34 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Yahoo">
+
+<test name="Sample Test">
+<classes>
+<class name="SampleTest"></class>
+</classes>
+</test>
+
+<test name="Yahoo Test">
+<classes>
+<class name="test.YahooTest"></class>
+</classes>
+</test>
+
+<test name="Yahoo Test1">
+<classes>
+<class name="test1.YahooTest1"></class>
+</classes>
+</test>
+
+<test name="Yahoo News Test">
+<classes>
+<class name="test1.YahooNewsTest"></class>
+</classes>
+</test>
+
+</suite>
+
+
+	
+<!-- neodl6.grp.bf1.yahoo.com Sat Nov 19 18:13:53 PST 2016 -->
+
+<!-- neodl1.grp.bf1.yahoo.com Mon Dec  4 15:08:42 UTC 2017 -->
